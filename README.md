@@ -1,8 +1,11 @@
-[![MasterHead](https://camo.githubusercontent.com/9790442a186cf9984a391793e2586ba6c8840cb5a698e26a425d670880f617c5/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)](http://rajendratambitkar.vercel.app/)
+[![MasterHead](https://github.com/trajendra0242/Github_Shair_Containt/blob/main/Untitled%20design.png?raw=true)](http://rajendratambitkar.vercel.app/) 
+
 
 <h1 align="center">Hi 👋, I'm Rajendra Tambitkar</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" 
+     src="https://raw.githubusercontent.com/trajendra0242/Github_Shair_Containt/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trajendra0242&label=Profile%20views&color=0e75b6&style=flat" alt="trajendra0242" /> </p>
 
